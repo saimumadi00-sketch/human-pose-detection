@@ -1,0 +1,6 @@
+numpy>=1.26,<2.0
+opencv-python>=4.10
+tensorflow>=2.16
+scikit-learn>=1.5
+ultralytics>=8.2
+matplotlib>=3.9

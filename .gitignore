@@ -1,0 +1,14 @@
+/__pycache__/
+/.agents/
+/.codex/
+/.venv/
+/venv/
+/behavior_detection/myenv/
+/behavior_detection/.vnev/
+/behavior_detection/__pycache__/
+/behavior_detection/utils/__pycache__/
+/behavior_detection/runs/
+/datasets/
+/runs/
+*.pt
+*.task
