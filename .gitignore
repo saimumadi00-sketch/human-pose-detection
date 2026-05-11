@@ -1,6 +1,4 @@
 /__pycache__/
-/.agents/
-/.codex/
 /.venv/
 /venv/
 /behavior_detection/myenv/
